@@ -2,6 +2,13 @@
 
 A comprehensive professional social networking platform exclusively for companies and businesses to connect, collaborate, share opportunities, post jobs, and gain insights through analytics.
 
+## 🌐 Multilingual Support
+
+This website supports **both Arabic and English** languages with full RTL (Right-to-Left) layout support for Arabic users. Switch between languages seamlessly using the professional language toggle in the navigation bar.
+
+- **English (EN)** - Full platform experience in English
+- **العربية (AR)** - Complete Arabic translation with RTL layout
+
 ## Features
 
 - **Company Profiles & Authentication** - Secure registration and login for businesses
